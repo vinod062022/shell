@@ -1,0 +1,27 @@
+total 72
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:09 Desktop
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:10 Videos
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:10 Templates
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:10 Public
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:10 Pictures
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:10 Music
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:10 Downloads
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:10 Documents
+drwxrwxr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:23 devops
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  108 Oct 23 05:38 place.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017   68 Oct 23 05:40 differentplace.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  193 Oct 23 06:05 sum.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  202 Oct 23 06:08 mult.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017   66 Oct 23 06:16 sumshort.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017   26 Oct 24 02:18 employee.sh
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017    0 Oct 24 02:24 people
+-rw-r--r-- 1 root            root               0 Oct 25 06:27 f1
+drwxr-xr-x 2 root            root            4096 Oct 25 06:29 d1
+drwx------ 1 pvinodkumar2017 pvinodkumar2017    0 Oct 25 14:58 thinclient_drives
+drwxrwxr-x 3 pvinodkumar2017 pvinodkumar2017 4096 Oct 25 15:04 dir1
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 25 15:15 f2
+lrwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017    2 Oct 25 15:16 project -> g5
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 25 15:19 hard
+lrwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017    2 Oct 25 15:21 si -> a1
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  354 Oct 25 15:45 nibba
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 25 15:45 log1

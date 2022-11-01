@@ -1,0 +1,45 @@
+total 128
+drwxr-xr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:09 Desktop
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017  150 Oct 28 17:21 add.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    2 Oct 25 16:37 allu
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    2 Oct 25 16:37 arjun
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 25 16:34 chiru
+drwxr-xr-x 2 root            root            4096 Oct 25 06:29 d1
+drwxrwxr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 10 15:23 devops
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017   68 Oct 23 05:40 differentplace.sh
+drwxrwxr-x 3 pvinodkumar2017 pvinodkumar2017 4096 Oct 25 15:04 dir1
+drwxrwxr-x 3 pvinodkumar2017 pvinodkumar2017 4096 Oct 28 18:01 dir8
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017   26 Oct 24 02:18 employee.sh
+-rw-r--r-- 1 root            root               0 Oct 25 06:27 f1
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 25 15:15 f2
+drwxrwxr-x 3 pvinodkumar2017 pvinodkumar2017 4096 Oct 30 12:29 git1
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017   85 Oct 28 17:10 greeting.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 25 15:19 hard
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 25 15:54 k1
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017 1865 Oct 25 15:45 log1
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017 1865 Oct 25 15:46 log2
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 31 15:19 log9
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 28 16:28 mem.tf
+drwxrwxr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 28 16:20 mkdirectory
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  202 Oct 23 06:08 mult.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    9 Oct 30 12:26 newnewne
+drwxrwxr-x 2 pvinodkumar2017 pvinodkumar2017 4096 Oct 28 16:19 ni
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  354 Oct 25 15:45 nibba
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017  426 Oct 27 11:52 pem.sh
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017    0 Oct 24 02:24 people
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017   98 Oct 28 16:42 place.sh
+lrwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017    2 Oct 25 15:16 project -> g5
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017 1914 Oct 25 17:02 ram
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    2 Oct 25 16:37 ramcharan
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017   88 Oct 28 16:07 read.sh
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017  190 Oct 27 11:08 search.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  217 Oct 27 11:09 search1.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  528 Oct 27 11:13 searchpem.sh
+lrwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017    2 Oct 25 15:21 si -> a1
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017  191 Oct 28 16:09 size1.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017    0 Oct 28 17:21 sum
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017  193 Oct 28 17:24 sum.sh
+-rwxrwxrwx 1 pvinodkumar2017 pvinodkumar2017  135 Oct 28 02:17 sum3.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017   66 Oct 23 06:16 sumshort.sh
+-rw-rw-r-- 1 pvinodkumar2017 pvinodkumar2017  950 Oct 25 16:25 syera
+drwx------ 1 pvinodkumar2017 pvinodkumar2017    0 Oct 31 15:19 thinclient_drives

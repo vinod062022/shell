@@ -1,0 +1,12 @@
+[20221101-16:32:07] [CORE ] main: app started pid 2216(0x000008a8)
+[20221101-16:32:07] [INFO ] main: DISPLAY env var set to :10.0
+[20221101-16:32:07] [INFO ] main: using DISPLAY 10
+[20221101-16:32:07] [INFO ] channel_thread_loop: thread start
+[20221101-16:32:07] [INFO ] Socket 12: AF_UNIX connection received
+[20221101-16:39:42] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20221101-16:44:29] [INFO ] Socket 12: AF_UNIX connection received
+[20221101-16:45:13] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20221101-16:45:19] [INFO ] Socket 12: AF_UNIX connection received
+[20221101-16:54:10] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221101-16:54:10] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20221101-16:56:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
